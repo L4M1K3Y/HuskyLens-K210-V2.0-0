@@ -1,7 +1,8 @@
+
 {
-    "name": "Huskylens",
+    "name": "huskylens-k210",
     "version": "2.0.0",
-    "description": "",
+    "description": "HuskyLens v2.0.0 for micro:bit",
     "dependencies": {
         "core": "*"
     },
